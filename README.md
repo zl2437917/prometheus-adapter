@@ -1,2 +1,2 @@
 # prometheus-adapter
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM https://hub.docker.com/r/goharbor/prepare:v2.11.0
